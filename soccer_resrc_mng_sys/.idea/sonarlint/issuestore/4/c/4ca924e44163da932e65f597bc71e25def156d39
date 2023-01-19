@@ -1,0 +1,15 @@
+
+w
+java:S1450	"URemove the "guests" field and declare it as a local variable in the relevant methods.(Ü×É©øÿÿÿÿ8ˆØŽÚÜ0
+X	java:S125"<This block of commented-out lines of code should be removed.(‡ÏðÐ8»œÚÜ0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Œ×ìòüÿÿÿÿ8š´ÚÜ0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(É˜·Ž8›´ÚÜ0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ŠÝ¸È8›´ÚÜ0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(“ÇÏ¹8œ´ÚÜ0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(êúƒýÿÿÿÿ8œ´ÚÜ0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¯¢ÞÁ8œ´ÚÜ0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(á…Üå8œ´ÚÜ0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(„¡–áúÿÿÿÿ8´ÚÜ0
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ŠÈšÞûÿÿÿÿ8´ÚÜ0
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(˜¬à`8´ÚÜ0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(˜‰Ú÷ýÿÿÿÿ8´ÚÜ0
